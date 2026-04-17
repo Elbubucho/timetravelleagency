@@ -1,7 +1,7 @@
 # TimeTravel Agency — Webapp Interactive
 
 Webapp moderne pour une agence de voyage temporel fictive, développée dans le
-cadre du projet pédagogique **M1/M2 Digital & IA**. L'application met en
+cadre du projet M1 Full stack IA. L'application met en
 scène trois destinations (Paris 1889, Crétacé -65M, Florence 1504) et intègre
 un agent conversationnel ainsi qu'un quiz de recommandation, tous deux
 propulsés par l'IA générative.
@@ -11,7 +11,7 @@ propulsés par l'IA générative.
 - **Valentin Sala**
 - **Kevin Vitali**
 - **Clément Machtelinckx**
-- **Benoit Bremaud **
+- **Benoit Bremaud**
 
 ## 🚀 Démo en ligne
 
@@ -36,7 +36,6 @@ côté client. En développement local, un middleware Vite dans
 
 ## ✨ Fonctionnalités
 
-### Obligatoires
 - 🏠 **Page d'accueil** avec hero plein écran, CTA et présentation de l'agence.
 - 🗺️ **Galerie des 3 destinations** (Paris 1889, Crétacé, Florence 1504)
   avec cards interactives — images, highlights, prix, durée.
@@ -44,8 +43,7 @@ côté client. En développement local, un middleware Vite dans
   `mistral-small-latest`, capable de conseiller, répondre aux questions FAQ,
   comparer les destinations et justifier les tarifs.
 - 🧭 Navigation sticky, design responsive (mobile-first), thème sombre.
-
-### Optionnelles réalisées
+  
 - ✨ **Animations** fluides avec Framer Motion (fade-in au scroll, stagger
   hero, hover cards, transitions du modal).
 - 🎯 **Quiz de recommandation personnalisée** (4 questions) : l'IA analyse le
@@ -140,7 +138,7 @@ timetravel-webapp/
 
 ## 📄 Licence
 
-Projet pédagogique sans visée commerciale — M1/M2 Digital & IA.
+Projet pédagogique sans visée commerciale.
 
 ## 🙏 Crédits
 
