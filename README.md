@@ -15,7 +15,7 @@ propulsés par l'IA générative.
 
 ## 🚀 Démo en ligne
 
-URL publique (Vercel) : _à compléter après déploiement_
+URL publique (Vercel) : https://timetravelleagency.vercel.app
 
 ## 🛠️ Stack technique
 
